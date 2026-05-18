@@ -1,4 +1,4 @@
-content = """# 🏆 Hackathon Squad: Maximum Skill Dream Team
+"""# 🏆 Hackathon Squad: Maximum Skill Dream Team
 
 A high-performance C++ solution for a heuristic optimization problem based on the **Maximum Weight Independent Set (MWIS)**.
 
